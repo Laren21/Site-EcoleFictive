@@ -1,0 +1,71 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "Arial";
+    src: url("/fonts/arial.ttf");
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    color: white;
+}
+
+.Titre{
+    text-align: center;
+    padding: 30px;
+    font-size: 35px;
+    color: white;
+}
+
+body{
+    background-color: rgb(29, 27, 27);
+}
+
+
+#Intro{
+    background-color: gray;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 20px;
+    font-size: 20px;
+}
+
+.Paragraphe{
+    float: left;
+    background-color: gray;
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px;
+    width: 300px;
+}
+
+.figure{
+    width: 50%;
+    height: 30%;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+
+/* Media query for smaller screens */
+@media screen and (max-width: 768px) {
+    .Titre {
+        font-size: 28px;
+    }
+
+    #Intro,
+    .Paragraphe,
+    .figure {
+        width: 100%; /* Adjusted for responsiveness */
+    }
+    
+}
+
+/* Media query for even smaller screens, like mobile phones */
+@media screen and (max-width: 576px) {
+    .Titre {
+        font-size: 24px;
+    }
+}
