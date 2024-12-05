@@ -1,9 +1,5 @@
 # Projet de création d'un site Web pour une école fictive  
 
-<p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="Logo HTML" style="width:600px;height:600px;">
-</p>  
-
 ## Avertissement    
 Ce projet de conception d'une école fictive axée sur les médecines alternatives ne représente pas les convictions de ses créateurs.  
 Au contraire, il a été choisi dans le seul but d'éduquer sur les risques potentiels associés à ce type de pratique médicale.  Notre intention est de critiquer de manière ironique, mais néanmoins sérieuse, certaines formes de médecines qui se présentent comme innovantes, mais qui peuvent parfois  exposer leurs adeptes à des dangers graves en raison de l'inefficacité de leurs traitements face à des problèmes de santé sérieux.  
